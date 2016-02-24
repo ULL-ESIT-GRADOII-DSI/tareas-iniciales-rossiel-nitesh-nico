@@ -1,6 +1,6 @@
 ## Tarea Inicial
 
-Configuración de las herramientas y tecnologías a utilizar en la asignatura Sistemas y Tecnologías Webs.
+Configuración de las herramientas y tecnologías a utilizar en la asignatura Desarrollo de Sistemas Inform
 
 * NodeJS
 * Express
@@ -18,6 +18,6 @@ Participantes:
 * Rossiel Dinosca González Ramírez.[Página personal de prácticas](http://alu0100763478.github.io/)
 
 
-[Página de la práctica inicial](http://alu0100536652.github.io/Tutorial-STW/)
+[Página de la práctica inicial](https://github.com/ULL-ESIT-GRADOII-DSI/tareas-iniciales-rossiel-nitesh-nico)
 =======
-* [Hosting del repositorio](http://alu0100536652.github.io/Tutorial-STW/)
+* [Tutorial de la realización de la práctica](http://ull-esit-gradoii-dsi.github.io/tareas-iniciales-rossiel-nitesh-nico/)
